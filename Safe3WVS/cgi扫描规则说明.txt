@@ -1,0 +1,7 @@
+cgi.list为规则文件
+格式:url<->匹配规则<->post数据，或者url<->匹配规则
+
+匹配规则分三种，前面代表匹配的位置，后面可以为正则表达式代表匹配的返回内容
+1.S:200|403 代表http状态包含200或者403
+2.H:nginx|iis 代表http头中包含nginx或者iis
+3.B:mysql 代表http body中包含mysql字符

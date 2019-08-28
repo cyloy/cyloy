@@ -1,0 +1,155 @@
+2018/5/7/一 17:39:45
+开始爬行http://nb.nnbh.cn/
+http://nb.nnbh.cn/asp/list.do?id=30 存在XSS漏洞
+http://nb.nnbh.cn/member/ oper=addprocess&username=88952634&pwd=88952634&pwd2=88952634&validate=88952634&realname=88952634&sex=1&vipcard=88952634&residence=88952634&postalcode=88952634&mobphone=88952634&telephone=88952634&fex=88952634&viptype=88952634&email=safe3q%40gmail.com 可能存在POST sql注入漏洞
+2018/5/7/一 17:42:10
+2018/5/7/一 17:42:27
+开始爬行http://nb.nnbh.cn/
+2018/5/7/一 17:42:47
+2018/5/7/一 17:44:06
+开始爬行http://nb.nnbh.cn/
+2018/5/7/一 17:44:16
+2018/5/7/一 17:44:20
+开始爬行http://nb.nnbh.cn/
+2018/5/7/一 17:44:40
+2018/5/7/一 17:45:29
+开始爬行http://nb.nnbh.cn/
+2018/5/7/一 17:45:30
+2018/5/7/一 17:45:57
+开始爬行http://www.nn4zx.com/
+2018/5/7/一 17:45:58
+2018/5/7/一 17:46:06
+开始爬行http://www.nn4zx.com/
+2018/5/7/一 17:46:07
+2018/5/7/一 17:46:32
+开始爬行http://www.nnsugar.com/
+2018/5/7/一 17:46:36
+2018/5/7/一 17:50:37
+开始爬行http://www.nnsugar.com/
+2018/5/7/一 17:50:42
+2018/5/8 19:44:57
+开始爬行http://www.zkfsb.cn/about.asp?id=1
+http://www.zkfsb.cn/about.asp?id=1 可能存在sql注入漏洞
+http://www.zkfsb.cn/yuyue.asp?id=1 可能存在sql注入漏洞
+http://www.zkfsb.cn/detail.asp?id=1 可能存在sql注入漏洞
+http://www.zkfsb.cn/list.asp?id=33&Page=1 id=33 可能存在sql注入漏洞
+http://www.zkfsb.cn/list.asp?id=33 可能存在sql注入漏洞
+2018/5/8 19:45:15
+2018/5/8 19:49:17
+开始爬行http://fakawang.38iot.xyz/
+2018/5/8 19:49:18
+2018/5/8 19:50:02
+开始爬行http://10.0.74.35/
+2018/5/8 19:50:15
+2018/5/8 19:51:28
+开始爬行http://nnsugar.com/
+2018/5/8 19:51:32
+2018/5/8 19:51:34
+开始爬行http://nnsugar.com/
+2018/5/8 19:51:39
+2018/5/8 20:27:19
+开始爬行http://nnsugar.com/
+2018/5/8 20:27:40
+2018/5/8 20:28:12
+开始爬行http://nnsugar.com/
+2018/5/8 20:28:20
+2018/5/8 20:28:55
+开始爬行http://nnsugar.com/
+2018/5/8 20:28:58
+2018/5/8 20:29:20
+开始爬行http://nnsugar.com/
+2018/5/8 20:29:40
+2018/5/8 20:29:46
+开始爬行http://nnsugar.com/
+2018/5/8 20:30:06
+2018/5/8 20:30:50
+开始爬行http://www.gxminghui.com/
+http://www.gxminghui.com/admin 敏感后台地址
+http://www.gxminghui.com/CheckLogin.asp 敏感后台地址
+http://www.gxminghui.com/CheckLogin.asp?_post_LoginPassword=88952634&rmemb=1 敏感后台地址
+http://www.gxminghui.com/newsDetail.asp?ID=263 存在XSS漏洞
+http://www.gxminghui.com/products.asp?SortID=1 存在XSS漏洞
+http://www.gxminghui.com/productsDetail.asp?ID=132 存在XSS漏洞
+http://www.gxminghui.com/products.asp?Page=2 存在XSS漏洞
+2018/5/8 20:31:22
+2018/5/8 20:32:00
+开始爬行http://www.xyqwj.com/
+http://www.xyqwj.com/manager 敏感后台地址
+http://www.xyqwj.com/htmleditor/html/editor.html 存在敏感信息
+http://www.xyqwj.com/0;%20url=/manager/index.jsp 敏感后台地址
+http://www.xyqwj.com/FrontMessages.do?method=addContent&compId=FrontMessages_customizeEmit01-1425539201813 succesUrl=%2Fmessages_list.html&token=8bf3d7f0ac62cf99e769b96157bcd686&orignal_url=88952634&messagesTitle=88952634&maxContent=500&author=88952634&sex=0&mail=88952634&isByMail=1&mobile=88952634&isByNote=1&address=88952634&verifyCode=88952634&FrontMessages_customizeEmit01-1425539201813_chkcode=88952634&compId=FrontMessages_customizeEmit01-1425539201813&FrontMessages_customizeEmit01-1425539201813_newsId=88952634&FrontMessages_customizeEmit01-1425539201813_productId=88952634&FrontMessages_customizeEmit01-1425539201813_downloadsId=88952634&FrontMessages_customizeEmit01-1425539201813_onlineId=88952634&FrontMessages_customizeEmit01-1425539201813_membersarticleId=88952634&content=88952634&messagesCategoryId=4 可能存在POST sql注入漏洞
+http://www.xyqwj.com/FrontProducts.do?method=submit action_page=%2Fproducts_list.html&pmscId=88952634&keyword=88952634&propertyId=88952634&searchType=88952634&brandId=88952634&beginValue=88952634&endValue=88952634&orderby=8&spType=88952634&pageNo=1&pageSize=18&pmcId=49 存在POST XSS漏洞
+http://www.xyqwj.com/FrontProducts.do?method=submit action_page=%2Fproducts_list.html&pmcId=49&keyword=88952634&propertyId=88952634&searchType=88952634&brandId=88952634&beginValue=88952634&endValue=88952634&orderby=8&spType=88952634&pageNo=1&pageSize=18&pmscId=88952634 存在POST XSS漏洞
+2018/5/8 20:32:52
+2018/5/8 20:32:57
+开始爬行http://www.aobowujin.com/
+http://www.aobowujin.com/manager 敏感后台地址
+http://www.aobowujin.com/htmleditor/html/editor.html 存在敏感信息
+http://www.aobowujin.com/0;%20url=/manager/index.jsp 敏感后台地址
+http://www.aobowujin.com/FrontMessages.do?method=addContent&compId=FrontMessages_customizeEmit01-1434009240941 succesUrl=%2Fmessages_list.html&token=b299d3e9ac0183dc69bbdf6fd19b50fd&orignal_url=88952634&maxContent=500&author=88952634&sex=0&mail=88952634&mobile=88952634&isByNote=1&verifyCode=88952634&FrontMessages_customizeEmit01-1434009240941_chkcode=88952634&compId=FrontMessages_customizeEmit01-1434009240941&FrontMessages_customizeEmit01-1434009240941_newsId=88952634&FrontMessages_customizeEmit01-1434009240941_productId=88952634&FrontMessages_customizeEmit01-1434009240941_downloadsId=88952634&FrontMessages_customizeEmit01-1434009240941_onlineId=88952634&FrontMessages_customizeEmit01-1434009240941_membersarticleId=88952634&content=88952634&messagesCategoryId=4 可能存在POST sql注入漏洞
+2018/5/8 20:34:30
+2018/5/8 20:34:49
+开始爬行http://www.nnwjjd.com/
+2018/5/8 20:35:30
+2018/5/8 20:36:18
+开始爬行http://www.nnwjjd.com/
+2018/5/8 20:36:59
+2018/5/8 20:38:24
+开始爬行http://heyawujin.1688.com/
+2018/5/8 20:38:27
+2018/5/8 20:38:30
+开始爬行http://heyawujin.1688.com/
+2018/5/8 20:38:46
+2018/5/8 20:38:50
+开始爬行http://www.dbwjjd.com/
+http://www.dbwjjd.com/member/login.php 敏感后台地址
+http://www.dbwjjd.com/member/login.php?forward=http%3A%2F%2Fwww.dbwjjd.com%2F 敏感后台地址
+http://www.dbwjjd.com/member/login.php?action=check&t= 敏感后台地址
+http://www.dbwjjd.com/member/login.php?_post_forward=http%3A%2F%2Fwww.dbwjjd.com%2Fmember%2Fmessage.php&username=88952634&password=88952634&=on&=on&submit=%E7%99%BB%20%E9%99%86 敏感后台地址
+http://www.dbwjjd.com/mall/login.php 敏感后台地址
+http://www.dbwjjd.com/mall/login.php?_post_forward=http%3A%2F%2Fwww.dbwjjd.com%2Fmall%2Fcart.php&username=88952634&password=88952634&=on&=on&submit=%E7%99%BB%20%E9%99%86 敏感后台地址
+http://www.dbwjjd.com/member/login.php?loginType=1 敏感后台地址
+http://www.dbwjjd.com/index.php?homepage=wankai&file=introduce&itemid=1 可能存在潜在漏洞
+http://www.dbwjjd.com/company/home.php?_post_action=search&homepage=wankai&kw=%E8%BE%93%E5%85%A5%E5%85%B3%E9%94%AE%E8%AF%8D&file=buy 可能存在潜在漏洞
+http://www.dbwjjd.com/com/linggefeng/%E5%87%8C%E6%A0%BC%E9%A3%8E%E7%9B%B4%E8%81%94%E5%8F%98%E9%A2%91%E8%9E%BA%E6%9D%86%E7%A9%BA%E5%8E%8B%E6%9C%BA-http://www.dbwjjd.com/admin123.php 敏感后台地址
+http://www.dbwjjd.com/member/editor/fckeditor/ 存在敏感信息
+http://www.dbwjjd.com/member/login.php?_post_submit=1&username=%E4%BC%9A%E5%91%98%E5%90%8D%2FEmail&password=password 敏感后台地址
+2018/5/8 20:42:09
+2018/5/9 15:16:38
+开始爬行http://guihua688.51sole.com/
+http://guihua688.51sole.com/%22http://reg.51sole.com/?From=http%3a%2f%2fguihua688.51sole.com%2fCompanyVideo.aspx%3fUserName%3dguihua688%5C 可能存在sql注入漏洞
+http://guihua688.51sole.com/companycontact.htm __VIEWSTATE=%2FwEPDwULLTEyMDAyNzE1MDNkZA%3D%3D&txtPersonName=88952634&txtTel=88952634&txtValidator_new_3_1=%E7%82%B9%E6%AD%A4%E8%8E%B7%E5%8F%96%E9%AA%8C%E8%AF%81%E7%A0%81&txtContent=88952634&txtTitle=88952634 可能存在POST sql注入漏洞
+http://guihua688.51sole.com/companycontact.htm __VIEWSTATE=%2FwEPDwULLTEyMDAyNzE1MDNkZA%3D%3D&txtTitle=88952634&txtTel=88952634&txtValidator_new_3_1=%E7%82%B9%E6%AD%A4%E8%8E%B7%E5%8F%96%E9%AA%8C%E8%AF%81%E7%A0%81&txtContent=88952634&txtPersonName=88952634 可能存在POST sql注入漏洞
+http://guihua688.51sole.com/companycontact.htm __VIEWSTATE=%2FwEPDwULLTEyMDAyNzE1MDNkZA%3D%3D&txtTitle=88952634&txtPersonName=88952634&txtTel=88952634&txtValidator_new_3_1=%E7%82%B9%E6%AD%A4%E8%8E%B7%E5%8F%96%E9%AA%8C%E8%AF%81%E7%A0%81&txtContent=88952634 可能存在POST sql注入漏洞
+2018/5/9 15:17:07
+2018/5/9 15:23:32
+开始爬行http://10.0.74.36/
+2018/5/9 15:23:46
+2018/5/9 15:23:51
+开始爬行http://10.0.74.35/
+2018/5/9 15:24:04
+2018/5/9 15:24:32
+开始爬行http://10.0.74.35/
+http://10.0.74.35/member/ajax_loginsta.php 敏感后台地址
+2018/5/9 15:24:45
+2018/5/9 15:25:30
+开始爬行http://10.0.74.35/
+http://10.0.74.35/member/ajax_loginsta.php 敏感后台地址
+2018/5/9 15:25:43
+2018/5/9 15:27:17
+开始爬行http://www.nn26.com/
+http://www.nn26.com/xinxiang/reg.asp Submit=%EF%BF%BD%E1%BD%BB%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD&nei=88952634&named=88952634 可能存在POST sql注入漏洞
+http://www.nn26.com/Bless.asp Bless_name=88952634&action=Bless&Bless_word=88952634&subit=%EF%BF%BD%E1%BD%BB%D7%A3%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD 可能存在POST sql注入漏洞
+2018/5/9 15:30:13
+2019/8/28 15:16:58
+开始爬行http://www.nnxcgg.com/
+2019/8/28 15:17:01
+2019/8/28 15:17:13
+开始爬行http://www.nnxcgg.com/
+2019/8/28 15:17:16
+2019/8/28 15:17:23
+开始爬行http://nnxcgg.com/index.php?s=
+2019/8/28 15:17:26
+2019/8/28 15:17:30
+开始爬行http://nnxcgg.com/
+2019/8/28 15:17:32
